@@ -11,7 +11,7 @@ are among my strong points. I enjoy designing clear, maintainable code and creat
 I'm dedicated to creating scalable and significant solutions, 
 and I'm always willing to learn about and investigate new technologies.
 
-
+<hr>
 ####  Skills & Experiance: 
  Frontend Skills : REACT / HTML / CSS / JavaScript / Tailwind CSS, Bootstrap <br> 
  Backend Skills : Node.js / Express.js <br>
