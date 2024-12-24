@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋, I'm Lamiya Rahman
-#### MERN & Frontend Developer
+#### MERN  ||  Frontend Developer
 
 Building dynamic, user-friendly, and responsive online apps is my specialty as a Frontend and MERN Stack developer. Creating sophisticated user interfaces using cutting-edge frontend technologies and creating solid backend systems are among my strong points. I enjoy designing clear, maintainable code and creating flawless user experiences. I'm dedicated to creating scalable and significant solutions, and I'm always willing to learn about and investigate new technologies.
 
