@@ -12,8 +12,7 @@ I'm dedicated to creating scalable and significant solutions,
 and I'm always willing to learn about and investigate new technologies.
 
 
-####  
- Skills & Experiance: 
+####  Skills & Experiance: 
  Frontend Skills : REACT / HTML / CSS / JavaScript / Tailwind CSS, Bootstrap <br> 
  Backend Skills : Node.js / Express.js <br>
  Database Management : MySQL / MongoDB. <br>
