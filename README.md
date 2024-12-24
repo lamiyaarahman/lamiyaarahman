@@ -4,7 +4,7 @@
 ### Hi there 👋, I'm Lamiya Rahman
 #### MERN & Frontend Developer
 
-I am a passionate Frontend and MERN Stack Developer with expertise in building dynamic, user-friendly, and responsive web applications. My skill set includes crafting elegant UIs with modern frontend technologies and developing robust backend architectures. I thrive on delivering seamless user experiences and writing clean, maintainable code. Always eager to learn and explore emerging technologies, I am committed to building scalable and impactful solutions.
+Building dynamic, user-friendly, and responsive online apps is my specialty as a Frontend and MERN Stack developer. Creating sophisticated user interfaces using cutting-edge frontend technologies and creating solid backend systems are among my strong points. I enjoy designing clear, maintainable code and creating flawless user experiences. I'm dedicated to creating scalable and significant solutions, and I'm always willing to learn about and investigate new technologies.
 
 Skills: REACT / HTML / CSS / JavaScript / Tailwind CSS, Bootstrap / Node.js / Express.js
 
