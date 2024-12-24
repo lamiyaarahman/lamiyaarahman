@@ -1,4 +1,4 @@
-![MERN & Frontend Developer](https://i.imghippo.com/files/Qql3804JCQ.PNG)
+![MERN & Frontend Developer](https://i.imghippo.com/files/Zjnl5135JdI.PNG)
 
 
 ### Hi there 👋, I'm Lamiya Rahman
