@@ -10,12 +10,17 @@ are among my strong points. I enjoy designing clear, maintainable code and creat
 I'm dedicated to creating scalable and significant solutions, 
 and I'm always willing to learn about and investigate new technologies.
 
-Frontend Skills : REACT / HTML / CSS / JavaScript / Tailwind CSS, Bootstrap
-Backend Skills : Node.js / Express.js
-Database Management: Relational databases like MySQL, NoSQL databases like MongoDB.
+
+-Frontend Skills : REACT / HTML / CSS / JavaScript / Tailwind CSS, Bootstrap
+-Backend Skills : Node.js / Express.js
+-Database Management: Relational databases like MySQL, NoSQL databases like MongoDB.
+
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lamiyaarahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lamiyarahman//)  
 
