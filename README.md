@@ -1,4 +1,4 @@
-[<img src='https://github.com/lamiyaarahman/lamiyaarahman/main/profile.PNG?raw=true' alt='Lamiya Rahman'>](https://github.com/lamiyaarahman/)
+[<img src='https://github.com/lamiyaarahman/lamiyaarahman/blob/main/profile.PNG?raw=true' alt='Lamiya Rahman'>](https://github.com/lamiyaarahman/)
 
 
 ## Hi there 👋, I'm Lamiya Rahman
