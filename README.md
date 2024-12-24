@@ -1,7 +1,7 @@
 ![MERN & Frontend Developer](https://i.imghippo.com/files/Zjnl5135JdI.PNG)
 
 
-### Hi there 👋, I'm Lamiya Rahman
+## Hi there 👋, I'm Lamiya Rahman
 #### MERN  ||  Frontend Developer
 
 ##
@@ -12,10 +12,10 @@ I'm dedicated to creating scalable and significant solutions,
 and I'm always willing to learn about and investigate new technologies.
 
 
-##  Skills & Experiance: 
+####  Skills & Experiance: 
  Frontend Skills : REACT / HTML / CSS / JavaScript / Tailwind CSS, Bootstrap <br> 
  Backend Skills : Node.js / Express.js <br>
- Database Management: Relational databases like MySQL, NoSQL databases like MongoDB. <br>
+ Database Management : MySQL / MongoDB. <br>
 
 
 
