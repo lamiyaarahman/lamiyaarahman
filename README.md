@@ -1,4 +1,4 @@
-![MERN & Frontend Developer](https://i.imghippo.com/files/Zjnl5135JdI.PNG)
+[<img src='https://github.com/lamiyaarahman/lamiyaarahman/main/profile.PNG?raw=true' alt='Lamiya Rahman'>](https://github.com/lamiyaarahman/)
 
 
 ## Hi there 👋, I'm Lamiya Rahman
